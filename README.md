@@ -9,7 +9,7 @@ I've been coding for a significant period, having had the luxury of accessing a 
 * 🌍  I'm based in Tangier - Morocco
 * 🖥️  See my portfolio at [My online portfolio](http://web.com)
 * 🚀  I'm currently working on [MoonWatch](http://www.github.com/omarbhl/MoonWatchProject)
-* 🧠  I'm learning ReactJs, JavaScript
+* 🧠  I'm learning Machine Leaning from ground zero
 
 ### Skills
 
