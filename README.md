@@ -1,10 +1,10 @@
 Hi 👋 My name is Bouhlal Omar
 =============================
 
-I. T Engineer student
+I. T Engineer
 ---------------------
 
-I've been coding for a significant period, having had the luxury of accessing a computer from a young age. I vividly recall creating my first calculator using Visual Basic years ago. However, four years ago, I embarked on an engineering degree in IT, and I am now just a year away from graduation. Through my experiences, I've discovered a genuine interest in both backend and frontend development.
+I've been coding for a significant period, having had the luxury of accessing a computer from a young age. I vividly recall creating my first calculator using Visual Basic years ago. However, four years ago, I embarked on an engineering degree in IT, and I just graduated this year. Through my experiences, I've discovered a genuine interest in both backend and frontend development.
 
 * 🌍  I'm based in Tangier - Morocco
 * 🖥️  See my portfolio at [My online portfolio](http://web.com)
